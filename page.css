@@ -11,6 +11,10 @@
     font-size: 30px;
 }
 
+.navbar-nav li a{
+    float: right;
+}
+
 #sec {
     padding-top: 6%;
     padding-bottom: 5%;
