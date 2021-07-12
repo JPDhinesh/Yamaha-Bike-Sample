@@ -11,11 +11,6 @@
     font-size: 30px;
 }
 
-.navbar-brand small {
-    font-size: 14px;
-    font-style: italic;
-}
-
 #sec {
     padding-top: 6%;
     padding-bottom: 5%;
@@ -57,7 +52,7 @@
 }
 
 #icons {
-    padding: 7px !important;
+    padding: 5px !important;
     border: 1px white solid;
     border-radius: 18px;
 }
@@ -71,7 +66,7 @@
     color: #c9d6d4;
 }
 
-.socialMedia h4 {
+.socialMedia h5 {
     color: white;
 }
 
