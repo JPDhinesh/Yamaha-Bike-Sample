@@ -15,6 +15,16 @@
     float: right;
 }
 
+.navbar button i {
+    font-size: 15px !important;
+    color: white;
+    border: none;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #sec {
     padding-top: 6%;
     padding-bottom: 5%;
